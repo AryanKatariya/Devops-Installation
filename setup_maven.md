@@ -1,10 +1,4 @@
-# Install & configure Maven build tool on Jenkins
-
-#### Prerequisites
-
-1. Jenkins server
-
-#### Install Maven on Jenkins
+#### Install Maven
 
 Download maven packages https://maven.apache.org/download.cgi onto Jenkins server. In this case I am using /opt/maven as my installation directory - Link : https://maven.apache.org/download.cgi
 
